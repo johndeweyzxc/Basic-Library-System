@@ -5,7 +5,7 @@ The Basic Library System is a system that can handle books. The user can either 
 ## Usage
 
 <div>javac App.java BookHandler.java</div>
-<div>java App</div>
+<div>java App</div><br>
 
 ![Welcome!](/Demo/Interface.png)
 
