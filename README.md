@@ -2,10 +2,11 @@
 
 The Basic Library System is a system that can handle books. The user can either be an employee or a student. The employee can add, read, borrow or delete a book while the student can only read or borrow a book. The program is written in java 18.
 
-## Usage
+## How to run
 
-<div>javac App.java BookHandler.java</div>
-<div>java App</div><br>
+<div>1. git clone https://github.com/johndeweyzxc/Basic-Library-System.git</div>
+<div>2. javac App.java BookHandler.java</div>
+<div>3. java App</div><br>
 
 ![Welcome!](/Demo/Interface.png)
 
