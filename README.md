@@ -4,10 +4,11 @@ The Basic Library System is a system that can handle books. The user can either 
 
 ## Usage
 
-` javac App.java BookHandler.java java App`
+<div>javac App.java BookHandler.java</div>
+<div>java App</div>
 
 <div>It should show the fancy sign and the "Are you an employee or student".</div>
-![Welcome!](/Demo/Interface.png)
+<img src="Demo/Interface.png" alt="Welcome!">
 <div>In the picture above I selected 1</div>
 
 ## What I learned
