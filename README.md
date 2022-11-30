@@ -4,8 +4,22 @@ The Basic Library System is a console system that can handle books. The user can
 
 ## How to run
 
-<div>1. git clone https://github.com/johndeweyzxc/Basic-Library-System.git</div>
-<div>2. javac App.java BookHandler.java</div>
-<div>3. java App</div><br>
+1. Clone the repository on your local machine
+
+```
+$git clone https://github.com/johndeweyzxc/Basic-Library-System.git
+```
+
+2. Compile java
+
+```
+$javac App.java BookHandler.java
+```
+
+3. Run the app
+
+```
+$java App
+```
 
 ![Welcome!](/Demo/Interface.png)
